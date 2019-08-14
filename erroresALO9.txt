@@ -1,0 +1,1 @@
+Best Solution:2  9  3 fmin=0.00098092   ALO time minutos:39.2596   Experimento:9   SearchAgents_no:11   Max_iteration:195
