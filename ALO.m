@@ -65,7 +65,7 @@ Elite_antlion_fitness=sorted_antlion_fitness(1);
 
 % Main loop start from the second iteration since the first iteration 
 % was dedicated to calculating the fitness of antlions
-Current_iter=2; 
+Current_iter=1; 
 while Current_iter<Max_iter+1
     
     % This for loop simulate random walks
